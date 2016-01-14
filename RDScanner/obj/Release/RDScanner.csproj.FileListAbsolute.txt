@@ -1,0 +1,8 @@
+c:\users\martin\documents\visual studio 2015\Projects\RDScanner\RDScanner\bin\Release\RDScanner.exe.config
+c:\users\martin\documents\visual studio 2015\Projects\RDScanner\RDScanner\bin\Release\RDScanner.exe
+c:\users\martin\documents\visual studio 2015\Projects\RDScanner\RDScanner\bin\Release\RDScanner.pdb
+c:\users\martin\documents\visual studio 2015\Projects\RDScanner\RDScanner\obj\Release\RDScanner.Form1.resources
+c:\users\martin\documents\visual studio 2015\Projects\RDScanner\RDScanner\obj\Release\RDScanner.Properties.Resources.resources
+c:\users\martin\documents\visual studio 2015\Projects\RDScanner\RDScanner\obj\Release\RDScanner.csproj.GenerateResource.Cache
+c:\users\martin\documents\visual studio 2015\Projects\RDScanner\RDScanner\obj\Release\RDScanner.exe
+c:\users\martin\documents\visual studio 2015\Projects\RDScanner\RDScanner\obj\Release\RDScanner.pdb
